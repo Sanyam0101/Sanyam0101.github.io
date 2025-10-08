@@ -3,13 +3,14 @@ Sanyam Garg - Personal Portfolio Website
 This repository contains the source code for my personal portfolio website, built as a clean, single-page application to showcase my skills, projects, and research interests in the field of AI/ML and software engineering.
 
 ✨ View the Live Site
-Technologies Used
-HTML5
+## Technologies Used:
 
-Tailwind CSS for styling and responsive design.
+# HTML5
 
-JavaScript for interactive elements like animations, tabs, and modals.
+# Tailwind CSS for styling and responsive design.
 
-Lucide Icons for clean and modern iconography.
+# JavaScript for interactive elements like animations, tabs, and modals.
 
-Web3Forms for the functional contact form.
+# Lucide Icons for clean and modern iconography.
+
+# Web3Forms for the functional contact form.
